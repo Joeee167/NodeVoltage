@@ -1,0 +1,4 @@
+﻿  CircuitsBonus.cpp
+C:\Users\YOUSEEF\Desktop\CircuitsBonus\CircuitsBonus\CircuitsBonus.cpp(120,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YOUSEEF\Desktop\CircuitsBonus\CircuitsBonus\CircuitsBonus.cpp(243,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CircuitsBonus.vcxproj -> C:\Users\YOUSEEF\Desktop\CircuitsBonus\x64\Debug\CircuitsBonus.exe
